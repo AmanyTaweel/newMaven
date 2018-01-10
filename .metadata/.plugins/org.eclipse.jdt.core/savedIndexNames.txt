@@ -1,0 +1,25 @@
+INDEX VERSION 1.130+C:\Users\Wurth\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+358050146.index
+4276271063.index
+2448026493.index
+881895235.index
+3963179895.index
+3776425001.index
+3176364129.index
+290714306.index
+248351807.index
+2394392208.index
+3097394219.index
+949515501.index
+847618560.index
+3520661010.index
+2958705335.index
+1654984216.index
+35292695.index
+844601494.index
+2369741222.index
+2143716467.index
+3864412229.index
+478502226.index
+881303192.index
+159385779.index
